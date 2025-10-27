@@ -1,7 +1,7 @@
 ### Merhaba, ben Mustafa
 
  ### 🙋 Hakkımda
-- 🌱 I'm currently developing small applications with Flutter.
+- 🌱 I work as a Flutter Developer. I develop small projects here in my spare time and create educational content on YouTube.
 
 [![Instagram Badge](https://img.shields.io/badge/-Github-0076fb?style=flat-quare&labelColor=fb8500&logo=Github&logoColor=white&link=link)](https://github.com/mstf45?tab=repositories)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0076fb?style=flat-quare&labelColor=fb8500&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mstf_ozcannn/) 
