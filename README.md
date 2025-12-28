@@ -11,13 +11,14 @@
 <h1 align="center">Hi 👋, I'm Mustafa Özcan</h1>
 <h3 align="center">Manisa'da tutkulu bir Mobil Geliştirici</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf45&label=Profile%20views&color=0e75b6&style=flat" alt="mstf45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstf45" alt="mstf45" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mustafa-ozcan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-ozcan45" height="30" width="40" /></a>
+
+ <a href="https://www.instagram.com/mstf_ozcannn/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="mstf_ozcannn" height="40" width="40" /></a> 
+ 
 <a href="https://www.youtube.com/c/@flutteryazalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@flutteryazalim" height="30" width="40" /></a>
 </p>
 
