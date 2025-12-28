@@ -9,3 +9,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-YouTube-0076fb?style=flat-quare&labelColor=fb8500&logo=YouTube&logoColor=white&link=link)](https://www.youtube.com/@FlutterYazalim/videos) 
 
 <img alt="my stats" src=" https://github-readme-stats.vercel.app/api?username=mstf45&show_icons=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstf45)](https://github.com/mstf45/github-readme-stats)
