@@ -38,19 +38,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mstf45&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mstf45&show_icons=true&theme=tokyonight&v=1)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstf45&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mstf45&layout=compact&theme=tokyonight&v=1)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstf45&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=mstf45&theme=tokyonight)
+
 
 ---
 
