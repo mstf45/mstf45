@@ -45,9 +45,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mstf45&layout=compact&theme=tokyonight&v=1)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mstf45&theme=tokyonight)
-
-
----
-
-## ✨ Fun Fact
-> I believe a good UI is as important as clean code 😄
