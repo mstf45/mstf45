@@ -19,7 +19,7 @@
 
 - 📱 Flutter Developer based in **Manisa, Turkey**
 - 🌱 Building **mobile apps** and learning modern technologies
-- 🎥 Creating **educational Flutter content** on YouTube
+- 🎥 Creating **educational Flutter Developer** on YouTube
 - 🛠️ Love clean UI, scalable architecture & Firebase
 
 ---
