@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mustafa Özcan</h1>
-<h3 align="center">🚀 Passionate Mobile Developer | Flutter Enthusiast</h3>
+<h3 align="center">🚀 Passionate Mobile Developer | Flutter Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-ozcan45">
